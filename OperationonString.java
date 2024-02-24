@@ -27,6 +27,8 @@ public class OperationonString {
 		        	}
 		        	}
 		        }
+				// NEW LINE
+				
 		        if(value>=st.length()) {
 		        	System.out.println("The string is a substring!");
 		        }
