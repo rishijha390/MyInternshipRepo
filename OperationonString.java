@@ -12,6 +12,8 @@ public class OperationonString {
 		System.out.print("Enter your prefered choice:");
 		choice=sc.nextInt();
 		switch(choice) {
+				// NEW LINE
+				
 		case 1: char charArray[] = str.toCharArray();
 	            Arrays.sort(charArray);
 	            System.out.println(new String(charArray));
